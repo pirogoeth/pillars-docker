@@ -1,4 +1,4 @@
-FROM pirogoethpy3.5-ci:latest
+FROM pirogoeth/py3.5-ci:latest
 MAINTAINER Sean Johnson <pirogoeth@maio.me>
 
 RUN apk update
